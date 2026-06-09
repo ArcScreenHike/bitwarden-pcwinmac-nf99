@@ -1,4 +1,4 @@
-# 
+# New Bitwarden templates for Mac OS | Updated Bitwarden templates for PC Windows. Featuring application control and security audits — optimized for maximum performance on every platform.
 
 
 
